@@ -1,0 +1,62 @@
+
+.tj {
+		background-color: #fff;
+		width: 100%;
+		position: fixed;
+		left: 0;
+		bottom: 0;
+		z-index: 99;
+}
+.fp {
+		padding: 0 30rpx;
+		box-sizing: border-box;
+}
+.ddbz {
+		padding: 20rpx;
+}
+.ddbz input {
+		border-bottom: 2rpx solid #CFD0D0;
+}
+.fp .fpbox>view {
+		margin: 8rpx;
+		padding-bottom: 10rpx;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		border-bottom: 2rpx solid #EFEFEF;
+}
+.fpxy {
+		color: #B3B4B5;
+		font-size: 24rpx;
+}
+.shdz {
+		padding: 40rpx;
+		display: flex;
+		flex-direction: column;
+}
+.xy {
+		padding: 10rpx;
+		display: flex;
+		align-items: center;
+		background-color: #EFEFEF;
+}
+.shdz .user {
+		display: flex;
+		justify-content: space-between;
+		margin-bottom: 4rpx;
+}
+.box {
+		background-color: #FAFAFA;
+}
+checkbox .wx-checkbox-input {
+		border-radius: 50% !important;
+		border: 2rpx solid #1989FA !important;
+}
+checkbox .wx-checkbox-input.wx-checkbox-input-checked {
+		border: 2rpx solid #1989FA !important;
+		background-color: #1989FA !important;
+		color: #FFFFFF !important;
+}
+checkbox .wx-checkbox-input.wx-checkbox-input-checked::before {
+		color: #FFFFFF !important;
+}

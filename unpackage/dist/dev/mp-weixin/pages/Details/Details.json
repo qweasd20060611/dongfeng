@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "详细页面",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-collapse-item": "../../uni_modules/uni-collapse/components/uni-collapse-item/uni-collapse-item",
+    "uni-collapse": "../../uni_modules/uni-collapse/components/uni-collapse/uni-collapse",
+    "uni-section": "../../uni_modules/uni-section/components/uni-section/uni-section",
+    "uni-goods-nav": "../../uni_modules/uni-goods-nav/components/uni-goods-nav/uni-goods-nav"
+  }
+}

@@ -1,0 +1,89 @@
+
+page {
+		width: 100%;
+		height: 100%;
+		background-color: #f7f7f7;
+}
+.uni-forms-item__label {
+		width: 160rpx !important;
+}
+.uni-forms-item.is-direction-left {
+		align-items: center;
+}
+.example {
+		padding: 15px;
+		background-color: #fff;
+}
+.box {
+		height: 100%;
+}
+.w100 {
+		position: absolute;
+		left: 0;
+		top: 0;
+		width: 100%;
+		height: 100%;
+}
+.popup-content {
+		height: 950rpx;
+}
+.btn {
+		width: 455rpx;
+		height: 85rpx;
+		background-color: #000000;
+		color: #fff;
+		text-align: center;
+}
+.list {
+		margin-top: 30rpx;
+}
+.son {
+		box-sizing: border-box;
+		padding: 40rpx;
+		display: flex;
+		flex-direction: column;
+		height: 280rpx;
+		justify-content: space-between;
+		background-color: #fff;
+}
+.dz {
+		padding-bottom: 20rpx;
+		border-bottom: 2rpx solid #cdcdcd;
+}
+.user {
+		display: flex;
+		justify-content: space-between;
+}
+.mrdz {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+}
+.mr {
+		font-size: 26rpx;
+		display: flex;
+		align-items: center;
+}
+.mrdz .cz {
+		display: flex;
+}
+.mrdz .cz view {
+		font-size: 26rpx;
+		display: flex;
+		align-items: center;
+}
+.mrdz .cz view:nth-child(2) {
+		margin-left: 38rpx;
+}
+checkbox .wx-checkbox-input {
+		border-radius: 50% !important;
+		border: 2rpx solid #333333 !important;
+}
+checkbox .wx-checkbox-input.wx-checkbox-input-checked {
+		border: 2rpx solid #000 !important;
+		background-color: #000 !important;
+		color: #FFFFFF !important;
+}
+checkbox .wx-checkbox-input.wx-checkbox-input-checked::before {
+		color: #FFFFFF !important;
+}

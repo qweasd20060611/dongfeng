@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "列表",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-search-bar": "../../uni_modules/uni-search-bar/components/uni-search-bar/uni-search-bar",
+    "zb-dropdown-item": "../../uni_modules/zb-dropdown-menu/components/zb-dropdown-item/zb-dropdown-item",
+    "zb-dropdown-menu": "../../uni_modules/zb-dropdown-menu/components/zb-dropdown-menu/zb-dropdown-menu"
+  }
+}

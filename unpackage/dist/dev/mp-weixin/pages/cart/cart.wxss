@@ -1,0 +1,50 @@
+
+.cart>view {
+		display: flex;
+		align-items: center;
+}
+.cart>view .js {
+		width: 100%;
+		display: flex;
+		flex-direction: column;
+}
+.cart>view .js .title {
+		font-size: 35rpx
+}
+.cart>view .js .title2 {
+		margin: 15rpx 0;
+		width: 300rpx;
+		height: 75rpx;
+		line-height: 28rpx;
+}
+.cart>view .js .title2 text {
+		font-size: 25rpx;
+		color: #A9A9A9;
+}
+image {
+		width: 180rpx;
+		height: 260rpx;
+		margin: 5rpx 10rpx;
+}
+.money {
+		display: flex;
+		justify-content: space-between;
+}
+.bottom {
+		position: fixed;
+		left: 0;
+		bottom: 0;
+		width: 100%;
+}
+checkbox .wx-checkbox-input {
+		border-radius: 50% !important;
+		border: 2rpx solid #1989FA !important;
+}
+checkbox .wx-checkbox-input.wx-checkbox-input-checked {
+		border: 2rpx solid #1989FA !important;
+		background-color: #1989FA !important;
+		color: #FFFFFF !important;
+}
+checkbox .wx-checkbox-input.wx-checkbox-input-checked::before {
+		color: #FFFFFF !important;
+}

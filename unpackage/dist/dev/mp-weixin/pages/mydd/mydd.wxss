@@ -1,0 +1,6 @@
+
+.hz {
+		display: flex;
+		justify-content: space-between;
+		margin: 15rpx 0;
+}

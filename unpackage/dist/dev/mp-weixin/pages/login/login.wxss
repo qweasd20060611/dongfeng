@@ -1,0 +1,71 @@
+
+.logo {
+		height: 155rpx;
+		width: 170rpx;
+		margin: 0 auto;
+		margin-top: 80rpx;
+}
+.logo image {
+		width: 100%;
+		height: 100%;
+}
+.dlfs {
+		display: flex;
+		justify-content: space-evenly;
+}
+.dlfs view {
+		width: 200rpx;
+		text-align: center;
+		padding-bottom: 12rpx;
+		font-size: 30rpx;
+		margin-top: 55rpx;
+}
+.dlfs .active {
+		color: #bfbfbf;
+		border-bottom: 1rpx solid #000000;
+}
+.number {
+		width: 615rpx;
+		margin: 0 auto;
+		display: flex;
+		font-size: 26.67rpx;
+		/* justify-content:space-between; */
+		border-bottom: solid 1rpx #d5d5d5;
+		padding-bottom: 16rpx;
+		margin-top: 108rpx;
+}
+.code {
+		width: 615rpx;
+		margin: 0 auto;
+		display: flex;
+		justify-content: space-between;
+		margin-top: 60rpx;
+		font-size: 26.67rpx;
+}
+.code .yz {
+		width: 215rpx;
+		height: 70rpx;
+		text-align: center;
+		line-height: 70rpx;
+		border: 1rpx solid #949494;
+}
+.button {
+		width: 607rpx !important;
+		height: 76rpx !important;
+		background-color: #000000;
+		color: #fff;
+		margin: 0 auto;
+		text-align: center;
+		margin-top: 88rpx;
+		font-size: 26.67rpx;
+}
+.number text {
+		line-height: 40rpx;
+}
+.number .numberxia {
+		color: #ccc;
+		margin-right: 40rpx;
+}
+.number .numberxia .xia {
+		transform: rotate(90deg);
+}
